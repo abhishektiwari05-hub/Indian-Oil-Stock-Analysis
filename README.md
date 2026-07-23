@@ -1,4 +1,3 @@
-# Indian-Oil-Stock-Analysis
 # Indian Oil Stock Price Analysis
 
 ## Project Overview
